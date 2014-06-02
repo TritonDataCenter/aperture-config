@@ -1,0 +1,13 @@
+{
+    "typeTable": {
+        "activeRoles": "array",
+        "date": "date",
+        "day": "day",
+        "fromjob": "boolean",
+        "method": "string",
+        "owner": "string",
+        "sourceip": "ip",
+        "time": "time",
+        "user-agent": "string"
+    }
+}

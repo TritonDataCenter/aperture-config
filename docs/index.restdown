@@ -1,0 +1,11 @@
+---
+title: Aperture Config
+markdown2extras: wiki-tables, code-friendly
+apisections:
+---
+
+# Aperture Config
+
+This repo contains the shared Aperture configuration for services that need to
+do authorization or Aperture rule parsing like Muskie, Marlin, CloudAPI and
+UFDS.

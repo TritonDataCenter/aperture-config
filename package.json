@@ -1,5 +1,5 @@
 {
-  "name": "Aperture Configuration",
+  "name": "ApertureConfiguration",
   "description": "Shared Aperture config for services that do authorization",
   "version": "1.0.0",
   "author": "Joyent (joyent.com)",

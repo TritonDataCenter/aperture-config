@@ -9,5 +9,6 @@
     "url": "git@git.joyent.com:aperture-config.git"
   },
   "main": "index.js",
-  "dependencies": {}
+  "dependencies": {},
+  "license": "MPL-2.0"
 }

@@ -25,8 +25,7 @@
 #
 # Files
 #
-DOC_FILES	 = index.restdown
-JS_FILES	:= $(shell ls *.js) $(shell find lib test -name '*.js')
+JS_FILES	:= $(shell ls *.js)
 JSON_FILES	 = package.json etc/aperture.json
 JSL_CONF_NODE	 = tools/jsl.node.conf
 JSL_FILES_NODE	 = $(JS_FILES)

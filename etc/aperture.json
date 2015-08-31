@@ -8,6 +8,7 @@
         "owner": "string",
         "sourceip": "ip",
         "time": "time",
-        "user-agent": "string"
+        "user-agent": "string",
+        "overwrite": "boolean"
     }
 }
